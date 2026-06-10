@@ -8,6 +8,8 @@
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
+  "author": "joldoshevmaksat@icloud.com",
+  "description": "Personal portfolio built with Vite, React and Tailwind CSS",
   "dependencies": {
     "framer-motion": "^11.0.0",
     "lucide-react": "^0.537.0",
