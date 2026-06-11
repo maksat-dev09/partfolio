@@ -36,7 +36,7 @@ export default function Hero() {
               <ArrowDownRight className="ml-2 h-4 w-4" />
             </a>
             <a
-              href="https://github.com/maksattt09"
+              href="https://github.com/maksat-dev09"
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center justify-center rounded-full border border-white/10 px-6 py-3 text-sm text-white transition hover:border-accent hover:text-accent"
